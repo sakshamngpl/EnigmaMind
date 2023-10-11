@@ -1,0 +1,158 @@
+
+const Enterprise = {
+
+  section_1: {
+    logoURL: '/MoobideskEnterprise-black.svg',
+    heading: 'The modern contact center solution that just does it all.',
+    description: 'Cloud contact center software with everything you need to manage, track and build the perfect customer relationship.',
+    buttons: [
+      { text: 'TRY IT FREE', url: '/signup', },
+      { text: 'CONTACT US', url: '/request-demo', },
+    ]
+  },
+
+  section_2: {
+    heading: 'Our Clients',
+    client_images: [
+      '/home/client/client-comfort@2x.png',
+      '/home/client/client-fullerton.png',
+      '/home/client/client-smu@2x.png',
+      '/home/client/client-certis@2x.png',
+      '/home/client/client-eurokars@1x.png',
+      '/home/client/client-volkswangen.png',
+      '/home/client/client-etiqua@2x.png',
+      '/home/client/client-accord@2x.png',
+    ],
+  },
+
+  section_3: {
+    heading: ' Power and Simplicity. All in One Platform. ',
+    description: ' We know that managing call centers today isn\'t easy. Most call centers struggle with slow or non-existent improvements in KPI performance, and lack of consistency among agents. That\'s why we have decided to build Moobidesk Enterprise - the call center solution for boosting performance and agents productivity using one simplified platform.',
+    imageURL: '/cussupport/example.png',
+  },
+
+  section_4: {
+    heading: 'Integration with all major communication platforms',
+    social_urls: [
+      { imageURL: '/cussupport/icons/icon-1.png', name: 'Twitter', },
+      { imageURL: '/cussupport/icons/icon-2.png', name: 'Line', },
+      { imageURL: '/cussupport/icons/icon-3.png', name: 'Voice', },
+      { imageURL: '/cussupport/icons/icon-4.png', name: 'Telegram', },
+      { imageURL: '/cussupport/icons/icon-5.png', name: 'Email', },
+      { imageURL: '/cussupport/icons/icon-6.png', name: 'SMS', },
+      { imageURL: '/cussupport/icons/icon-7.png', name: 'WhatsApp', },
+      { imageURL: '/cussupport/icons/icon-8.png', name: 'Facebook', },
+      { imageURL: '/cussupport/icons/icon-9.png', name: 'WeChat', },
+      { imageURL: '/cussupport/icons/icon-10.png', name: 'Messenger', },
+      { imageURL: '/cussupport/icons/icon-11.png', name: 'Instagram', },
+      { imageURL: '/cussupport/icons/icon-12.png', name: 'Web Chat', },
+    ],
+  },
+
+  section_5: {
+    heading: 'Key features of Moobidesk Enterprise ',
+    description: 'Learn how Moobidesk makes your agents’ lives easier, your customer support more efficient, and your customers happier ',
+    panels: [
+      {
+        imageURL: '/enterprise/CustomerExperience.png',
+        title: 'UNIFIED VOICE & CHAT CHANNELS',
+        heading: 'A truly connected customer experience.',
+        description: 'Orchestrate the best customer experience across all channels on one platform. With this customer engagement platform, you get to choose the right communication channels that best fit your business needs and respond to those enquiries from a single interface.',
+      },
+      {
+        imageURL: '/enterprise/panel-2.png',
+        title: 'SMART AI OMINICHANNEL ROUTING',
+        heading: 'SEAMLESS BOT TO AGENT TRANSITION.',
+        description: 'As soon as someone connects with your business, Moobidesk bot intelligently engages and services the customer. When it comes to complex requests, Moobidesk bot transfers control of the chat or call to a live agent automatically.',
+      },
+      {
+        imageURL: '/enterprise/panel-3.png',
+        title: 'CUSTOMIZABLE WORKFLOW',
+        heading: 'EFFORTLESS TO SETUP. TWEAK ANYTIME.',
+        description: 'The world of contact center is complex - that’s why we make it ultra-simple for you to create an optimal ticketing system. You can add agents, set up channels, SLA, queue, skill set, aux code, and chat routing at any time.',
+      },
+      {
+        imageURL: '/enterprise/panel-4.png',
+        title: 'VISUALLY SATISFYING DASHBOARDS',
+        heading: 'UNDERSTAND TEAM’S PERFORMANCE AT A GLANCE.',
+        description: 'Get a quick summary of how your contact center is performing, giving both supervisors and agents a clear understanding of your performance with easily digestible dashboards.',
+      },
+    ],
+  },
+
+
+
+  // * format :-
+  // [social_platform_image_url, social_platform_name]
+
+
+
+
+  section_6: [
+    {
+      imageURL: '/cussupport/icons/benefit-icon-1.svg',
+      title: 'Increased agent productivity',
+      description: 'With the integration of multiple channels into one customer engagement platform, your customer service agents can keep track of customer information and respond to customer queries across channels quickly, accurately and easily. ',
+    },
+    {
+      imageURL: '/cussupport/icons/benefit-icon-2.svg',
+      title: 'Better problem resolution timing',
+      description: 'Moobidesk intelligently analyses your customers\' messages, and suggests the best response to customer service agents. This way, they can send out replies much faster and provide answers that make your customers feel valued. ',
+    },
+    {
+      imageURL: '/cussupport/icons/benefit-icon-3.svg',
+      title: 'Efficient monitoring and tracking',
+      description: 'See how your customer support team is performing, while turning data into actionable insights for stronger collaboration within the team and better customer communication. ',
+    },
+    {
+      imageURL: '/cussupport/icons/benefit-icon-4.svg',
+      title: 'Improved customer loyalty',
+      description: 'Going omnichannel with our customer support software allows your customers to contact you from wherever they are, all while getting help to solve their problems swiftly, and to build positive long-term customer relationships. Satisfied customers are loyal customers.',
+    },
+    {
+      imageURL: '/cussupport/icons/benefit-icon-5.svg',
+      title: 'Significant cost savings',
+      description: 'By streamlining and automating your support process means fewer repeat calls, shorter call times, and quick problem resolution, all contributing to increased support efficiency and the lowering of customer care costs. ',
+    },
+    {
+      imageURL: '/cussupport/icons/benefit-icon-6.svg',
+      title: 'Superior customer experiences',
+      description: 'An individual customer’s data from any channel they have used is automatically stored on the same interface and database. It makes the customer experience a great one, as it eliminates the need for the customer to repeat information that has been mentioned before.  ',
+    },
+
+  ],
+
+  section_7: {
+    title: 'AVAILABLE IN THE CLOUD, ON PREMISES OR HYBRID CLOUD',
+  },
+
+  section_8: {
+    heading: 'Benefits of Moobidesk',
+    subheading: 'What you can expect from our customer support and engagement platform  ',
+  },
+  section_9: {
+    heading: 'Why organizations choose Moobidesk',
+    card_1: {
+      heading: 'WITH MOOBIDESK ENTERPRISE',
+      description: 'Intuitive modern helpdesk empowers all to drive desired business outcomes faster and easier than ever before.',
+    },
+    card_2: {
+      heading: 'OLD, LEGACY CONTACT CENTER SOFTWARE',
+      description: 'Overly complex and siloed legacy systems, bound by inflexibility reduce productivity and efficiency.',
+    },
+  },
+  section_10: {
+    description_1: '“Since we’ve started with Moobidesk Enterprise, communicating and coordinating with customers has become far less time-consuming. The unified contact center platform has saved us the hassle of shuffling between separate systems, and enabled us to connect with our customers with new additional channels.',
+    description_2: 'This has greatly increased our team’s productivity, giving us time to focus on providing our customers with the best experience they can get.” ',
+    companyImage: '/enterprise/logo-sfexpress.png',
+    person_name: 'Maria Chua ',
+    person_title: ' Customer Support Manager ',
+  },
+
+  midBanner: {
+    heading: 'Experience the most innovative and affordable customer support solution today',
+    btn_text: 'REQUEST A DEMO',
+  },
+};
+
+export default Enterprise;

@@ -1,0 +1,81 @@
+
+const Navbar = {
+  dropdown_links: [
+    {
+      name: 'Products',
+      dropdown: [
+        {
+          imageURL: '/icons/home-navigation.svg',
+          title: 'Moobidesk',
+          description: 'Simple, flexible and versatile Omnichannel Customer Support Platform',
+          url: '/customer-support-solution',
+        },
+        {
+          imageURL: '/icons/home-enterprise.svg',
+          title: 'Moobidesk Enterprise',
+          description: 'Intuitive, unified and powerful Omnichannel Contact Center Platform',
+          url: '/enterprise',
+        },
+        {
+          imageURL: '/icons/home-whatsapp.svg',
+          title: 'WhatsApp Solution',
+          description: 'Customer support made smarter and easier with WhatsApp Business API',
+          url: '/whatsapp',
+        },
+        {
+          imageURL: '/icons/home-live-chat.png',
+          title: 'Live Chat Solution',
+          description: 'Live chat customer support for your website',
+          url: '/live-chat-solution',
+        },
+      ]
+    },
+    {
+      name: 'Industries',
+      dropdown: [
+        {
+          imageURL: '/icons/home-industries-1.svg',
+          title: 'Insurance',
+          description: null,
+          url: '/insurance',
+        },
+        {
+          imageURL: '/icons/home-industries-2.svg',
+          title: 'Retail',
+          description: null,
+          url: '/retail',
+        },
+      ],
+    },
+  ],
+
+  links: [
+    {
+      name: 'Pricing',
+      link: '/pricing',
+    },
+    {
+      name: 'Partner',
+      link: '/partner',
+    },
+    {
+      name: 'Contact Us',
+      link: '/#contact-us',
+    },
+    {
+      name: 'Knowledge Base',
+      link: '/knowledge-base',
+    },
+    {
+      name: 'Blog',
+      link: 'https://moobidesk-blog.vercel.app/',
+    },
+  ],
+
+  button: {
+    name: 'TALK TO AN EXPERT',
+    link: '/request-demo',
+  }
+};
+
+export default Navbar;

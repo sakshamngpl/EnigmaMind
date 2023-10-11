@@ -1,0 +1,82 @@
+{
+  "section_1": {
+    "title": "INSURANCE",
+    "heading": "Simplify Complexities of your customer support process",
+    "description": "The complete helpdesk that manages everything from general enquiries to insurance claims.",
+    "buttons": [
+      {
+        "text": "TRY IT FREE",
+        "url": "/request-demo"
+      },
+      {
+        "text": "CONTACT US",
+        "url": "/#contact-us"
+      }
+    ]
+  },
+  "section_2": {
+    "heading": "Build customer relationships that lasts",
+    "description": "Customers prioritize trust when engaging insurers and will subconsciously decide how much they are willing to trust your business based on their first interactions which is usually with your customer support team. Hence, many insurance providers are looking for a platform that allows effortless management of communications to maintain quality customer service. With Moobidesk, conversations from all channels are organized in one place – enabling seamless interactions. And customer context can be easily accessed – allowing agents to deliver personalized responses to establish a strong foundation of trust with your customers.",
+    "imageURL": "/images/insurance/section_2.png"
+  },
+  "panels": [
+    {
+      "imageURL": "/images/insurance/panel-1.png",
+      "heading": "Streamline customers' enquiries",
+      "description": "Insurance companies receive an overwhelming number of enquiries every day from both existing and potential customers. Moobidesk directs all enquiries to one centralized platform and organizes them according to different queues. The smart routing assigns enquiries to specific agents to ensure that they are handled by the most suitable representative for effective management of customer enquiries."
+    },
+    {
+      "imageURL": "/images/insurance/panel-2.png",
+      "heading": "Continuous conversations always",
+      "description": "Providing consistent support is challenging in a split communications environment. Insurers need to switch between platforms to access past conversations while engaging customers on their preferred channels. Alternatively, Moobidesk allows you to see all conversation histories at a glance and interact with customers on different channels via one interface. Deliver a delightful omnichannel experience with Moobidesk."
+    },
+    {
+      "imageURL": "/images/insurance/panel-3.png",
+      "heading": "Enhanced communication efficiency",
+      "description": "The insurance industry has a dynamic environment encompassing a variety of situations from casual enquiries to emergencies. The Moobidesk chatbot function assists customers with simple questions, only engaging a live agent when necessary. This enables businesses to deliver adequate support accurately and allocate resources accordingly to improve effectiveness and productivity."
+    },
+    {
+      "imageURL": "/images/insurance/panel-4.png",
+      "heading": "Truly understand your policyholders",
+      "description": "More often than not, customers are unsure of what insurance they need. Hence, providers need to understand them in order to provide relevant recommendations. Moobidesk’s CRM feature allows you to import and manage customer information on the same platform where customer interactions are handled. Give your team quick access to key information and conversation histories to provide contextualized responses effortlessly."
+    }
+  ],
+  "section_4": {
+    "heading": "Why choose Moobidesk",
+    "reasons": [
+      {
+        "imageURL": "/icons/insurance/icon-1.svg",
+        "title": "Robust security",
+        "description": "Within an insurance company, customer data is shared and circulated. To protect businesses, Moobidesk takes great effort to employ security measures of global standards for information safety and customer confidence. "
+      },
+      {
+        "imageURL": "/icons/insurance/icon-2.svg",
+        "title": "Customizable interface",
+        "description": "With Moobidesk, you can make extensive customizations according to your preferences. Set up a customer support system unique to your needs in a flash and achieve significant customer support structural enhancements."
+      },
+      {
+        "imageURL": "/icons/insurance/icon-3.svg",
+        "title": "Global support",
+        "description": "At Moobidesk, we make ourselves accessible to businesses for quality support round the clock. We cater to companies worldwide and ensure global availability so that you can enjoy excellent assistance regardless of geographical boundaries."
+      },
+      {
+        "imageURL": "/icons/insurance/icon-4.svg",
+        "title": "Straightforward navigation",
+        "description": "Moobidesk is proactively designed to ensure consistent and easy navigation. This way, your agents can explore independently and pick up the new technology quickly. Make handling insurance simple with Moobidesk."
+      }
+    ]
+  },
+  "section_5": {
+    "heading": "Ready to transform your business?",
+    "buttons": [
+      {
+        "text": "TRY IT FREE",
+        "url": "/request-demo"
+      },
+      {
+        "text": "CONTACT US",
+        "url": "/#contact-us"
+      }
+    ]
+  }
+}

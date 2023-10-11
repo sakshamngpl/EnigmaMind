@@ -1,0 +1,142 @@
+
+
+const Livechat = {
+  section_1: {
+    heading: 'Offer Instant Help with Live ',
+    subheading: 'Give customers the help they need, close sales and resolve issues in no time on your website.',
+    buttons: [
+      { text: 'TRY IT FREE', url: '/request-demo', },
+      { text: 'CONTACT US', url: '/#contact-us', },
+    ]
+  },
+
+  section_2: {
+
+    heading: 'Say More to Customer Growth, Loyalty and Sales with Moobidesk’s Live Chat Solution in Singapore',
+    subheading: 'From grasping new sales opportunities to managing enquiries in real-time and following up on feedback post sales, Moobidesk’s live chat solution is the tool you need to keep your customers happy and coming back for more.',
+
+    cards: [
+      {
+        heading: 'Attend to customers in real-time',
+        description: 'Don’t leave your customers waiting. Enable your team to respond instantly to visitors on your website. Make missed opportunities a thing of the past.',
+        image: '/livechat/icon-1.png',
+      },
+      {
+        heading: 'Follow-up instantly with past conversations',
+        description: 'Chat transcripts can be kept and used for quick follow-ups by your agents. They can also forward it to customers for their reference.',
+        image: '/livechat/icon-2.png',
+      },
+      {
+        heading: 'Fix mistakes with chat message edit',
+        description: 'Sent a wrong link or made a typo in a sales quote? Let your agents edit their sent messages without hassle and keep up the good impression.',
+        image: '/livechat/icon-6.png',
+      },
+      {
+        heading: 'Get the chance to turn negative reviews positive',
+        description: 'Collect customer feedback at the end of each chat and take quick action to set things right if a customer leaves a poor review.',
+        image: '/livechat/icon-4.png',
+      },
+      {
+        heading: 'Give customers a heads up on wait times',
+        description: 'Let web visitors know their position in the queue when waiting to be attended to, so they don’t have to keep guessing if it is their turn soon.',
+        image: '/livechat/icon-5.png',
+      },
+      {
+        heading: 'Understand performance in more detail and clarity',
+        description: 'Improve on sales follow-ups, issue resolutions, responsiveness, and quality of replies to customers by monitoring the live chat between your customers and agents.',
+        image: '/livechat/icon-3.png',
+      },
+    ],
+
+  },
+
+  section_3: {
+
+    heading: 'Moobidesk’s Live Chat Solution in Singapore is Your Ideal Customer Support Tool',
+    subheading: 'Why do businesses use our live chat solution? Simply put, it is easy to get started and equips your agents with tools to offer outstanding service.',
+    panels: [
+      {
+        heading: 'Win more leads',
+        description: 'Engage potential customers immediately through live chat and up the chances of converting a lead. Being able to talk to customers in real-time decreases your response time and provides your customers with a personalized service experience. And with instant responses to their enquiries, they will be more persuaded to make a purchase',
+        imageURL: '/livechat/panel-1.jpg',
+      },
+      {
+        heading: 'Multi-task with ease',
+        description: 'No matter how busy your agents get, juggling multiple messages at the same time becomes easier with live chat to track all current and past conversations. A single live chat agent can efficiently talk with several customers at a time with no hassle or confusion, and still retain the same high customer satisfaction rates.',
+        imageURL: '/livechat/panel-2.jpg',
+      },
+      {
+        heading: 'Build customer loyalty',
+        description: 'Your customers are more at ease with companies that make service feel fast, uncomplicated, and personalized. Live chat lets your agents answer enquiries in as little time as possible and accurately follow-up on issues based on past conversations. Try live chat and give your customers the confidence that they can reach you for help anytime and recommend their friends your service too.',
+        imageURL: '/livechat/panel-3.jpg',
+      },
+    ],
+  },
+
+  section_4: {
+    heading: 'Live Chat for Customer-Focused Businesses',
+    subheading: 'Deliver the gold standard in customer service. Join many other businesses who are already using Moobidesk’s live chat.',
+    clients: [
+      '/whatsapp/clients/client-1.png',
+      '/whatsapp/clients/client-2.png',
+      '/whatsapp/clients/client-3.png',
+      '/whatsapp/clients/client-4.png',
+      '/whatsapp/clients/client-5.png',
+      '/whatsapp/clients/client-6.png',
+      '/whatsapp/clients/client-7.png',
+      '/whatsapp/clients/client-8.png',
+      '/whatsapp/clients/client-9.png',
+      '/whatsapp/clients/client-10.png',
+      '/whatsapp/clients/client-11.png',
+      '/whatsapp/clients/client-12.png',
+      '/whatsapp/clients/client-13.png',
+      '/whatsapp/clients/client-14.png',
+      '/whatsapp/clients/client-15.png',
+      '/whatsapp/clients/client-16.png',
+      '/whatsapp/clients/client-17.png',
+      '/whatsapp/clients/client-18.png',
+      '/whatsapp/clients/client-19.png',
+      '/whatsapp/clients/client-20.png',
+      '/whatsapp/clients/client-21.png',
+      '/whatsapp/clients/client-22.png',
+      '/whatsapp/clients/client-23.png',
+      '/whatsapp/clients/client-24.png',
+    ],
+  },
+
+  section_5: {
+    heading: 'A Few Frequently Asked Questions',
+    subheading: 'Looking for something else? Let’s talk.',
+
+    questions: [
+      {
+        question: 'What is a live chat solution?',
+        answer: ['A live chat solution is an online communication channel that enables you and your website visitors to chat in real-time. By opening a simple window on the website, your customers will be able to reach your agents with their enquiries online.'],
+      },
+      {
+        question: 'How do I get started with live chat for my website?',
+        answer: ['The process is simple! Once you have signed up with us, you will be given a html code to insert on your website. Next, just download our live chat software, log in as an agent and start talking to your visitors.'],
+      },
+      {
+        question: 'Is live chat just for large businesses?',
+        answer: ['Businesses of all sizes can benefit from live chat. Today, many customers prefer messaging businesses rather than calling, as they can usually reach businesses faster and typing can be an easier form of communication. By far, live chat is an excellent way for all businesses to decrease customer complaints on responsiveness, and increase growth and conversions.'],
+      },
+      {
+        question: 'Do I need to have agents available 24/7?',
+        answer: [' Many large enterprises have the capacity to have agents attending 24/7 to customers. Smaller businesses without such resources can instead prompt visitors to leave their contact details so that they can be reached during normal office hours. That way, your customers will have peace of mind that their enquiry has been heard and will be attended to as soon as possible. '],
+      },
+    ],
+  },
+
+  section_6: {
+    heading: 'Keep customers engaged and win them over',
+    buttons: [
+      { text: 'TRY IT FREE', url: '/request-demo', },
+      { text: 'CONTACT US', url: '/#contact-us', },
+    ]
+  },
+
+
+};
+
+export default Livechat;
